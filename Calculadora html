@@ -1,5 +1,9 @@
 <html>
 
+<div class="display">
+    <p class="texto-display">0</p>
+</div>
+
 <div class="botoes">
 
     <div class="numeros">
@@ -25,3 +29,15 @@
 </div>
 
 </html>
+
+<style>
+    .numeros button{
+        background-color: black;
+        color: aqua;
+    }
+
+    .operacoes button{
+        background-color: aqua;
+        color: black;
+    }
+</style>
