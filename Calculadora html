@@ -34,10 +34,28 @@
     .numeros button{
         background-color: black;
         color: aqua;
+        font-size: 50px;
+        padding-left: 14px;
+        padding-right: 14px;
+        border-radius: 100%;
     }
 
     .operacoes button{
         background-color: aqua;
         color: black;
+        font-size: 50px;
+        padding-left: 14px;
+        padding-right: 14px;
+        
     }
+
+    .display{
+        border: solid black 2px;
+        border-radius: 0px;
+    }
+
+    .texto-display{
+        font-size: 50px;
+    }
+    
 </style>
